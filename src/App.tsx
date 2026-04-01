@@ -34,7 +34,7 @@ function App() {
                 Fresh, Delicious & Authentic Indian Snacks
               </p>
               <p className="text-gray-400 mt-4">
-                &copy; 2024 Dhanalakshmi Snacks. All rights reserved.
+                &copy; 2026 Dhanalakshmi Foods. All rights reserved.
               </p>
             </div>
           </footer>

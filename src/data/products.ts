@@ -3,8 +3,8 @@ import { Product } from '../types';
 export const products: Product[] = [
   {
     id: '1',
-    name: 'Masala Chips',
-    image: 'https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&w=800',
+    name: 'Chekallu',
+    image: 'https://zdljxdxsyyhymkwjnrzi.supabase.co/storage/v1/object/public/products/chekkalu.png',
     description: 'Crispy and spicy masala-flavored potato chips',
     prices: {
       '500g': 100,
@@ -16,8 +16,8 @@ export const products: Product[] = [
   },
   {
     id: '2',
-    name: 'Banana Chips',
-    image: 'https://images.pexels.com/photos/5966630/pexels-photo-5966630.jpeg?auto=compress&cs=tinysrgb&w=800',
+    name: 'Karampusa',
+    image: 'https://zdljxdxsyyhymkwjnrzi.supabase.co/storage/v1/object/public/products/Sanna%20Karapusa.png',
     description: 'Crunchy and golden banana chips',
     prices: {
       '500g': 120,
@@ -29,8 +29,8 @@ export const products: Product[] = [
   },
   {
     id: '3',
-    name: 'Mixture',
-    image: 'https://images.pexels.com/photos/1435904/pexels-photo-1435904.jpeg?auto=compress&cs=tinysrgb&w=800',
+    name: 'Janthikallu',
+    image: 'https://zdljxdxsyyhymkwjnrzi.supabase.co/storage/v1/object/public/products/Janthikalu.png',
     description: 'Traditional South Indian mixture with nuts and spices',
     prices: {
       '500g': 110,
@@ -42,8 +42,8 @@ export const products: Product[] = [
   },
   {
     id: '4',
-    name: 'Murukku',
-    image: 'https://images.pexels.com/photos/6210747/pexels-photo-6210747.jpeg?auto=compress&cs=tinysrgb&w=800',
+    name: 'Sunnundalu',
+    image: 'https://zdljxdxsyyhymkwjnrzi.supabase.co/storage/v1/object/public/products/MinapaSunnundalu_480x480.jpg',
     description: 'Classic crunchy spiral-shaped rice snack',
     prices: {
       '500g': 130,
@@ -55,8 +55,8 @@ export const products: Product[] = [
   },
   {
     id: '5',
-    name: 'Spicy Peanuts',
-    image: 'https://images.pexels.com/photos/1435735/pexels-photo-1435735.jpeg?auto=compress&cs=tinysrgb&w=800',
+    name: 'Kara Boondi',
+    image: 'https://zdljxdxsyyhymkwjnrzi.supabase.co/storage/v1/object/public/products/kara%20boondi.jpg',
     description: 'Roasted peanuts with a perfect spicy coating',
     prices: {
       '500g': 90,
@@ -68,8 +68,8 @@ export const products: Product[] = [
   },
   {
     id: '6',
-    name: 'Sev',
-    image: 'https://images.pexels.com/photos/4202392/pexels-photo-4202392.jpeg?auto=compress&cs=tinysrgb&w=800',
+    name: 'Sakinalu (Chakinaalu)',
+    image: 'https://zdljxdxsyyhymkwjnrzi.supabase.co/storage/v1/object/public/products/Sakinalu.png',
     description: 'Thin crispy noodles made from chickpea flour',
     prices: {
       '500g': 100,
@@ -81,8 +81,8 @@ export const products: Product[] = [
   },
   {
     id: '7',
-    name: 'Ribbon Pakoda',
-    image: 'https://images.pexels.com/photos/4039921/pexels-photo-4039921.jpeg?auto=compress&cs=tinysrgb&w=800',
+    name: 'Atukula Mixture (Poha Chivda)',
+    image: 'https://zdljxdxsyyhymkwjnrzi.supabase.co/storage/v1/object/public/products/Atukula%20Mixture.png',
     description: 'Crispy ribbon-shaped savory snack',
     prices: {
       '500g': 115,

@@ -86,7 +86,7 @@ export function ProductCard({ product }: ProductCardProps) {
           <div className="flex items-center justify-between mb-4">
             <span className="text-gray-600">Total Price</span>
             <span className="text-2xl font-bold text-orange-600">
-              ₹{totalPrice}
+              ₹{totalPrice} 
             </span>
           </div>
 

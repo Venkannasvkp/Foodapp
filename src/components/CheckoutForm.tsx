@@ -55,7 +55,7 @@ Pincode: ${formData.pincode}
 Please confirm my order. Thank you!`;
 
     const encodedMessage = encodeURIComponent(message);
-    const whatsappNumber = '919876543210';
+    const whatsappNumber = '9666932714';
     const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodedMessage}`;
 
     window.open(whatsappUrl, '_blank');

@@ -18,10 +18,10 @@ export function Contact() {
             </div>
             <h3 className="text-xl font-bold text-gray-800 mb-2">Phone</h3>
             <a
-              href="tel:+919876543210"
+              href="tel:+919666932714"
               className="text-gray-600 hover:text-orange-600 transition-colors"
             >
-              +91 98765 43210
+              +91 9666932714
             </a>
           </div>
 
@@ -49,7 +49,7 @@ export function Contact() {
               href="mailto:info@dhanalakshmisnacks.com"
               className="text-gray-600 hover:text-orange-600 transition-colors"
             >
-              info@dhanalakshmisnacks.com
+              info@venkannaakana.com
             </a>
           </div>
 
@@ -93,7 +93,7 @@ export function Contact() {
           </p>
           <div className="text-center">
             <a
-              href="https://wa.me/919876543210?text=Hello%20Dhanalakshmi%20Snacks%2C%20I%20have%20a%20question"
+              href="https://wa.me/9666932714?text=Hello%20Dhanalakshmi%20Snacks%2C%20I%20have%20a%20question"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center space-x-2 bg-white text-orange-600 px-8 py-4 rounded-lg font-semibold hover:bg-gray-100 transition-all duration-300"
