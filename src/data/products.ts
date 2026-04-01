@@ -1,0 +1,108 @@
+import { Product } from '../types';
+
+export const products: Product[] = [
+  {
+    id: '1',
+    name: 'Masala Chips',
+    image: 'https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&w=800',
+    description: 'Crispy and spicy masala-flavored potato chips',
+    prices: {
+      '500g': 100,
+      '1kg': 180,
+      '2kg': 350,
+      '5kg': 800,
+      '10kg': 1500,
+    },
+  },
+  {
+    id: '2',
+    name: 'Banana Chips',
+    image: 'https://images.pexels.com/photos/5966630/pexels-photo-5966630.jpeg?auto=compress&cs=tinysrgb&w=800',
+    description: 'Crunchy and golden banana chips',
+    prices: {
+      '500g': 120,
+      '1kg': 220,
+      '2kg': 420,
+      '5kg': 1000,
+      '10kg': 1900,
+    },
+  },
+  {
+    id: '3',
+    name: 'Mixture',
+    image: 'https://images.pexels.com/photos/1435904/pexels-photo-1435904.jpeg?auto=compress&cs=tinysrgb&w=800',
+    description: 'Traditional South Indian mixture with nuts and spices',
+    prices: {
+      '500g': 110,
+      '1kg': 200,
+      '2kg': 380,
+      '5kg': 900,
+      '10kg': 1700,
+    },
+  },
+  {
+    id: '4',
+    name: 'Murukku',
+    image: 'https://images.pexels.com/photos/6210747/pexels-photo-6210747.jpeg?auto=compress&cs=tinysrgb&w=800',
+    description: 'Classic crunchy spiral-shaped rice snack',
+    prices: {
+      '500g': 130,
+      '1kg': 240,
+      '2kg': 460,
+      '5kg': 1100,
+      '10kg': 2100,
+    },
+  },
+  {
+    id: '5',
+    name: 'Spicy Peanuts',
+    image: 'https://images.pexels.com/photos/1435735/pexels-photo-1435735.jpeg?auto=compress&cs=tinysrgb&w=800',
+    description: 'Roasted peanuts with a perfect spicy coating',
+    prices: {
+      '500g': 90,
+      '1kg': 170,
+      '2kg': 320,
+      '5kg': 750,
+      '10kg': 1400,
+    },
+  },
+  {
+    id: '6',
+    name: 'Sev',
+    image: 'https://images.pexels.com/photos/4202392/pexels-photo-4202392.jpeg?auto=compress&cs=tinysrgb&w=800',
+    description: 'Thin crispy noodles made from chickpea flour',
+    prices: {
+      '500g': 100,
+      '1kg': 190,
+      '2kg': 360,
+      '5kg': 850,
+      '10kg': 1600,
+    },
+  },
+  {
+    id: '7',
+    name: 'Ribbon Pakoda',
+    image: 'https://images.pexels.com/photos/4039921/pexels-photo-4039921.jpeg?auto=compress&cs=tinysrgb&w=800',
+    description: 'Crispy ribbon-shaped savory snack',
+    prices: {
+      '500g': 115,
+      '1kg': 210,
+      '2kg': 400,
+      '5kg': 950,
+      '10kg': 1800,
+    },
+  },
+  {
+    id: '8',
+    name: 'Karasev',
+    image: 'https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&w=800',
+    description: 'Spicy and crunchy South Indian savory',
+    prices: {
+      '500g': 105,
+      '1kg': 195,
+      '2kg': 370,
+      '5kg': 880,
+      '10kg': 1650,
+    },
+  },
+];
